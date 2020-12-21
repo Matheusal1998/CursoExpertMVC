@@ -1,0 +1,6 @@
+C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\DevIO.Business.dll
+C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\bin\Debug\DevIO.Business.pdb
+C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.dll
+C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.pdb
