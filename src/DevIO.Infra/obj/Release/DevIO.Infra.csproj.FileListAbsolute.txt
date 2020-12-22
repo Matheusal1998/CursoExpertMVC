@@ -1,0 +1,14 @@
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\DevIO.Infra.dll.config
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\DevIO.Infra.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\DevIO.Infra.pdb
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\DevIO.Business.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\EntityFramework.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\DevIO.Business.pdb
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\EntityFramework.xml
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Release\DevIO.Infra.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Release\DevIO.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Release\DevIO.Infra.csproj.CopyComplete
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Release\DevIO.Infra.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Release\DevIO.Infra.pdb

@@ -4,3 +4,12 @@ C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Bu
 C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.CoreCompileInputs.cache
 C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.dll
 C:\Users\Samsung\source\repos\MeusProdutos\src\DevIO.Business\obj\Debug\DevIO.Business.pdb
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\bin\Debug\DevIO.Business.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\bin\Debug\DevIO.Business.pdb
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\bin\Debug\FluentValidation.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\bin\Debug\FluentValidation.xml
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Debug\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Debug\DevIO.Business.csproj.CopyComplete
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Debug\DevIO.Business.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Debug\DevIO.Business.pdb

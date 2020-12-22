@@ -26,3 +26,5 @@ C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Debug
 C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Debug\DevIO.Infra.csproj.CopyComplete
 C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Debug\DevIO.Infra.dll
 C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\obj\Debug\DevIO.Infra.pdb
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Debug\FluentValidation.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Infra\bin\Debug\FluentValidation.xml

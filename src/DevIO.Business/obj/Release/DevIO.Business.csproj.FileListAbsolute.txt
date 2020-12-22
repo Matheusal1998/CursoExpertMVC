@@ -1,0 +1,6 @@
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\bin\Release\DevIO.Business.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\bin\Release\DevIO.Business.pdb
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Release\DevIO.Business.csprojAssemblyReference.cache
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Release\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Release\DevIO.Business.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.Business\obj\Release\DevIO.Business.pdb
