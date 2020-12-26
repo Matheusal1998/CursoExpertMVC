@@ -186,3 +186,5 @@ C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.AppMVC\obj\Debu
 C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.AppMVC\obj\Debug\DevIO.AppMVC.pdb
 C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.AppMVC\bin\FluentValidation.dll
 C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.AppMVC\bin\FluentValidation.xml
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.AppMVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Samsung\source\repos\Projeto_Curso_MVC_Expert\src\DevIO.AppMVC\bin\EntityFramework.SqlServer.xml
